@@ -1,0 +1,20 @@
+{
+  "user": "rathilpatel1",
+  "key": "LGUNnQMtjxeGa7xnuXi9",
+
+  "capabilities": {
+    "build": "behave-browserstack new",
+    "name": "Behave-Single-BS-inception",
+    "browserstack.debug": true,
+    "browserstack.selenium_version" : "3.1.0"
+  },
+
+  "environments": [{
+    "os" : "Windows",
+    "os_version" : "10",
+    "browser" : "Chrome",
+    "browser_version" : "62.0",
+    "browserstack.local" : "false",
+    "browserstack.selenium_version" : "3.1.0"
+  }]
+}

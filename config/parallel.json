@@ -1,0 +1,20 @@
+{
+  "user": "rathilpatel1",
+  "key": "LGUNnQMtjxeGa7xnuXi9",
+
+  "capabilities": {
+    "build": "behave-browserstack-inception",
+    "name": "parallel_test",
+    "browserstack.debug": true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  },{
+    "browser": "firefox"
+  },{
+    "browser": "safari"
+  },{
+    "browser": "internet explorer"
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "user": "rathilpatel1",
+  "key": "LGUNnQMtjxeGa7xnuXi9",
+
+  "capabilities": {
+    "build": "behave-browserstack-inception",
+    "name": "local_test",
+    "browserstack.debug": true,
+    "browserstack.local": true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  }]
+}
