@@ -1,20 +1,15 @@
 {
-  "user": "rathilpatel1",
-  "key": "LGUNnQMtjxeGa7xnuXi9",
+  // "user": "rathilpatel1",
+  // "key": "LGUNnQMtjxeGa7xnuXi9",
 
-  "capabilities": {
-    "build": "behave-browserstack new",
-    "name": "Behave-Single-BS-inception",
-    "browserstack.debug": true,
-    "browserstack.selenium_version" : "3.1.0"
-  },
+  // "capabilities": {
+  //   "build": "browserstack behave jenkins test run",
+  //   "name": "test_ single",
+  //   "browserstack.debug": true,
+  //   "browserstack.local": true
+  // },
 
-  "environments": [{
-    "os" : "Windows",
-    "os_version" : "10",
-    "browser" : "Chrome",
-    "browser_version" : "62.0",
-    "browserstack.local" : "false",
-    "browserstack.selenium_version" : "3.1.0"
-  }]
+  // "environments": [{
+  //   "browser": "chrome"
+  // }]
 }

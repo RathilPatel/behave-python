@@ -3,7 +3,7 @@
   "key": "LGUNnQMtjxeGa7xnuXi9",
 
   "capabilities": {
-    "build": "behave-browserstack-inception",
+    "build": "behave-browserstack",
     "name": "parallel_test",
     "browserstack.debug": true
   },

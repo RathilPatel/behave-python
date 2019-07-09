@@ -47,7 +47,7 @@ def step(context):
     time.sleep(15)
     action = ActionChains(context.browser)
     action.move_by_offset(500,50)
-    action.context_click()
+    action.click()
     action.send_keys("browserstack")
     action.send_keys(Keys.RETURN)
     action.perform()
